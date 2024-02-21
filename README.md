@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JesseKavungal
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m a Bounty Hunter with basic programming Knowledge 
+Hi all ,
+ I am Certified Penetration Tester 
 
 <!---
 JesseKavungal/JesseKavungal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
