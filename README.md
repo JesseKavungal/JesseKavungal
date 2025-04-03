@@ -1,12 +1,11 @@
 # Hi there! I'm Jesse Francis Kavungal 👋
 
-I am a passionate cybersecurity enthusiast with a strong commitment to discovering and addressing vulnerabilities in web applications and networks. 
-My journey in cybersecurity has equipped me with skills in penetration testing, OSINT, and more.
+I am a passionate cybersecurity enthusiast with a strong commitment to discovering and addressing vulnerabilities in web applications and networks and analyzing malware samples. 
+My journey in cybersecurity has equipped me with skills in penetration testing, OSINT, and malware analysis.
 
 ## About Me
-- 🎓 Currently pursuing Level 4 and 5 diplomas in Cybersecurity.
+- 🎓 Completed Level 4 and 5 diploma in Cybersecurity.
 - 💻 Actively involved in bug bounty programs and vulnerability disclosure initiatives.
-- 🔍 Experienced in using tools like YARA, Wireshark, Snort, and more for security analysis and threat detection.
 - 🌐 Seeking opportunities in cybersecurity roles to further develop my skills and contribute to the field.
 
 ## My Projects
