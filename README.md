@@ -1,17 +1,22 @@
 # Hi there! I'm Jesse Francis Kavungal 👋
 
-I am a passionate cybersecurity enthusiast with a strong commitment to discovering and addressing vulnerabilities in web applications and networks and analyzing malware samples. 
-My journey in cybersecurity has equipped me with skills in penetration testing, OSINT, and malware analysis.
+Cybersecurity Ethusiast and hands-on practitioner, specializing in **penetration testing**, **bug bounty hunting**, and **malware analysis**.
 
-## About Me
-- 🎓 Completed Level 4 and 5 diploma in Cybersecurity.
-- 💻 Actively involved in bug bounty programs and vulnerability disclosure initiatives.
-- 🌐 Seeking opportunities in cybersecurity roles to further develop my skills and contribute to the field.
+## 🧠 About Me
+
+- 🎓 Completed Level 4 and Level 5 Diplomas in Cybersecurity  
+- 🐞 Actively engaged in bug bounty programs and responsible vulnerability disclosures
+- 🛡️ PMRP certified 
+- 📚 Continuously learning and building hands-on skills in offensive security, threat detection, and OSINT
+- 🚀 Open to cybersecurity roles
 
 ## My Projects
-- **Penetration Testing Report**: Documentation of a recent pentest I conducted on Metasploitable, highlighting my findings and methodologies.
+- 📄 **Malware Analysis Reports** – In-depth technical reports on real-world malware samples 
+- 🧪 **Penetration Testing Reports** – Documented assessments of Metasploitable and other vulnerable environments, including attack paths, mitigation, and recommendations
+- 🧬 **YARA Rule Repository** – A growing collection of custom-written YARA rules based on real malware analysis
 
-## Let's Connect
-I am always looking to connect with fellow cybersecurity professionals and explore job opportunities. Feel free to reach out!
 
-#hackforgood
+## 🤝 Let’s Connect
+I’m always looking to connect with fellow cybersecurity professionals, researchers, and recruiters. feel free to reach out!
+
+#MalwareAnalysis  #BugBounty  #PenTesting  #CyberSecurity
